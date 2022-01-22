@@ -1,0 +1,47 @@
+.header-section{
+    background:#101446 !important;
+}
+.header-logo img{
+    width: 100px;
+    height: auto;
+}
+.banner{
+    background: url(https://i.ibb.co/GMQ6jH6/2.jpg) no-repeat center;
+    background-size: cover;
+    padding: 200px 0;
+    color: #fff;
+}
+.banner h2{
+
+}
+.banner p {
+    font-size: 20px;
+    /* padding: 50px 0; */
+}
+.banner button{}
+
+/* Teem section css */
+.teem{
+    background:#bac1f3 ;
+    padding: 50px 0;
+}
+.teem p{
+    font-size: 18px;
+    color: #767676;
+}
+
+
+/* About css */
+.about{
+    background: #c2d4ea;
+}
+
+
+/* Contact section css */
+.contact{
+    background: #f5f5f5;
+}
+/* Footer Css */
+footer p{
+    font-size: 18px;
+}
